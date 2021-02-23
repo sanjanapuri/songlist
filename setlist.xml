@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<?xml-stylesheet type= "text/css" href="styles.css"?>
+<setlist>
+	<heading>Set List for "The Happenings"</heading>
+	<groupA>
+		<song>
+			<name>See You in September</name>
+			<artist>The Tempos</artist>
+			<genre>Pop</genre>
+			<year>1966</year>
+		</song>
+	</groupA>
+
+	<groupB>
+		<song>
+			<name>Go Away Little Girl</name>
+			<artist>Bobby Vee</artist>
+			<genre>Pop</genre>
+			<year>1966</year>
+		</song>
+	</groupB>
+
+	<groupA>
+		<song>
+			<name>Why Do Fools Fall in Love</name>
+			<artist>Frankie Lymon &amp; The Teenagers</artist>
+			<genre>Doo-wop</genre>
+			<year>1967</year>
+		</song>
+	</groupA>
+
+	<groupB>
+		<song>
+			<name>My Mammy</name>
+			<artist>William Frawley</artist>
+			<genre>Pop</genre>
+			<year>1967</year>
+		</song>
+	</groupB>
+
+	<groupA>
+		<song>
+			<name>Music! Music! Music!</name>
+			<artist>Teresa Brewer</artist>
+			<genre>Pop</genre>
+			<year>1967</year>
+		</song>
+	</groupA>
+
+	<groupB>
+		<song>
+			<name>Sealed with a Kiss</name>
+			<artist>Brian Hyland</artist>
+			<genre>Pop</genre>
+			<year>1968</year>
+		</song>
+	</groupB>
+
+	<groupA>
+		<song>
+			<name>Breaking Up Is Hard to Do</name>
+			<artist>Neil Sedaka</artist>
+			<genre>Doo-wop</genre>
+			<year>1968</year>
+		</song>
+	</groupA>
+
+	<groupB>
+		<song>
+			<name>Crazy Rhythm</name>
+			<artist>Roger Wolfe Kahn and His Orchestra</artist>
+			<genre>Swing</genre>
+			<year>1968</year>
+		</song>
+	</groupB>
+
+	<groupA>
+		<song>
+			<name>Make Your Own Kind of Music</name>
+			<artist>the Will-O-Bees</artist>
+			<genre>Pop</genre>
+			<year>1971</year>
+		</song>
+	</groupA>
+
+	<groupB>
+		<song>
+			<name>Working My Way Back to You</name>
+			<artist>The Four Seasons</artist>
+			<genre>Rock</genre>
+			<year>1972</year>
+		</song>
+	</groupB>
+</setlist>
+
+
+<!-- Where do you put the name of the band? -->
+<!--Do the songs need to be in chronological order-->
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+heading{
+	color: #BB6859;
+	background-color: #AAAC9F;
+	font-size: 50px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: center;
+	font-family: "Palatino", serif; 
+}
+
+groupB{
+	background-color:#AAAC9F;
+	color:#BB6859;
+	width: 100%;
+	font-family: "Palatino", serif;
+	padding: 5px 5px 5px 5px;
+}
+
+groupA{
+	color: #AAAC9F;
+	background-color: #BB6859;
+	width: 100%;
+	font-family: "Palatino", serif;
+	padding: 5px 5px 5px 5px;
+}
+
+
+
+artist, year, genre{
+	font-size: 20px;
+}
+
+name{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+heading, groupA, groupB, name, artist, genre, year{
+	display: block;
+}
+
